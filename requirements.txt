@@ -1,0 +1,5 @@
+requests==2.25.1
+pandas==1.2.5
+bs4==0.0.1
+SQLAlchemy==1.4.19
+PyMySQL==1.0.2
